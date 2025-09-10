@@ -1,4 +1,4 @@
-# 🌱 EcoLearn - Gamified Environmental Education Platform
+# 🌱 EcoMon - Gamified Environmental Education Platform
 
 A full-stack gamified environmental education platform designed for schools and colleges, featuring AI-powered quiz generation, real-world challenges, and competitive learning experiences.
 
@@ -26,27 +26,6 @@ A full-stack gamified environmental education platform designed for schools and 
 - Node.js 16+ and npm
 - Modern web browser
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <YOUR_GIT_URL>
-   cd ecolearn-platform
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:8080` to see the application.
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -72,6 +51,7 @@ A full-stack gamified environmental education platform designed for schools and 
 
 ### 🏠 Welcome Page
 - Hero section with environmental education messaging
+- Voice-Learn section to let students study by voice
 - Feature highlights and platform statistics
 - Dual-mode authentication (Student/Teacher)
 - Beautiful background with environmental imagery
@@ -138,6 +118,7 @@ A full-stack gamified environmental education platform designed for schools and 
 
 4. **Real-time Features**
    - Live leaderboard updates
+   - Real-Life tasks
    - Push notifications
    - Real-time quiz competitions
    - Chat and community features
@@ -163,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌍 Impact
 
-EcoLearn aims to:
+EcoMon aims to:
 - Educate the next generation about environmental challenges
 - Gamify learning to increase engagement and retention
 - Foster global awareness and local action
@@ -172,6 +153,5 @@ EcoLearn aims to:
 
 ---
 
-**Built with ❤️ for the environment and education**
 
 For questions or support, please open an issue or contact the development team.
