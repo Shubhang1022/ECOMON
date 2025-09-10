@@ -1,0 +1,23 @@
+[
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis & Carbon Cycle",
+    "summary": "How plants absorb CO₂, produce oxygen and their role in the carbon cycle.",
+    "content": "<h3><b>Photosynthesis</b></h3><p>Photosynthesis is the process by which green plants, algae, and some bacteria use sunlight, carbon dioxide, and water to produce glucose (sugar) and release oxygen. It is the foundation of life on Earth because it provides food and oxygen for almost all living organisms.</p><h4><mark>The Overall Equation</mark></h4><pre><b>(6 CO2 + 6 H2O + light energy → C6H12O6 + 6 O2)</b></pre><p>Carbon dioxide (from air) + Water (from soil) + Sunlight → Glucose (food) + Oxygen (released to atmosphere)</p><br><h4><b><mark>Where it Happens</mark></b></h4><p>Occurs in the chloroplasts of plant cells. Chloroplasts contain a green pigment called chlorophyll, which captures light energy from the sun.</p><h4><b><u>Two Main Stages of Photosynthesis:</u></b></h4><h5><li>Light-Dependent Reactions (in the thylakoid membranes)</li></h5><ul><li><b>-></b>Require sunlight directly.</li><li><b>-></b>Light energy is absorbed by chlorophyll.</li><li><b>-></b>Water molecules split (photolysis) → release oxygen as a byproduct.</li><li><b>-></b>Energy-rich molecules (ATP and NADPH) are produced.</li></ul><br><h5><li>Light-Independent Reactions (Calvin Cycle, in the stroma)</li></h5><ul><li><b>-></b>Do not require direct light (but depend on ATP & NADPH from light reactions).</li><li><b>-></b>Carbon dioxide is fixed into organic molecules.</li><li><b>-></b>Produces glucose, which stores energy in chemical bonds.</li></ul><h4><b>-></b>Importance of Photosynthesis</h4><ul><li><strong>Food Production</strong> – Provides the primary source of energy (glucose) for plants, which in turn feed animals and humans.</li><li><strong>Oxygen Supply</strong> – Releases oxygen, essential for respiration of almost all living organisms.</li><li><strong>Carbon Dioxide Utilization</strong> – Helps regulate atmospheric CO2 levels, reducing greenhouse effects.</li><li><strong>Foundation of Ecosystems</strong> – Forms the base of the food chain; autotrophs (plants) feed heterotrophs (animals, humans).</li><li><strong>Energy Flow</strong> – Converts solar energy into chemical energy, making it usable by all life forms.</li></ul><h4>Fun Facts</h4><ul><li>About 70–80% of Earth’s oxygen comes from marine algae and phytoplankton performing photosynthesis.</li><li>Photosynthesis captures around 130 terawatts of solar energy daily — much more than humans use.</li><li>Without photosynthesis, life on Earth would not exist as we know it.</li></ul>",
+    "keywords": ["photosynthesis","carbon","plants"]
+  },
+  {
+    "id": "greenhouse-gases",
+    "title": "Greenhouse Gases",
+    "summary": "Overview of greenhouse gases, sources and mitigation.",
+    "content": "<p>Methane, CO₂, and nitrous oxide trap heat in the atmosphere ... (long detailed content)</p>",
+    "keywords": ["greenhouse","climate","ghg"]
+  },
+  {
+    "id": "water-conservation",
+    "title": "Water Conservation",
+    "summary": "Practical ways to conserve water at home and school.",
+    "content": "<p>Reducing water wastage starts with small daily actions ...</p>",
+    "keywords": ["water","conservation"]
+  }
+]

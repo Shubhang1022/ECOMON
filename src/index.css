@@ -1,0 +1,222 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* EcoLearn Design System - Nature & Gamification Inspired */
+
+@layer base {
+  :root {
+    /* Core backgrounds */
+    --background: 120 20% 98%;
+    --foreground: 150 25% 15%;
+
+    /* Card system */
+    --card: 0 0% 100%;
+    --card-foreground: 150 25% 15%;
+
+    /* Popover system */
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 25% 15%;
+
+    /* Primary eco-green theme */
+    --primary: 142 76% 36%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 142 70% 45%;
+
+    /* Secondary earth tones */
+    --secondary: 120 15% 94%;
+    --secondary-foreground: 150 25% 15%;
+
+    /* Muted nature tones */
+    --muted: 120 10% 95%;
+    --muted-foreground: 150 15% 45%;
+
+    /* Accent sky blues */
+    --accent: 200 70% 90%;
+    --accent-foreground: 200 90% 20%;
+
+    /* Success green */
+    --success: 140 85% 35%;
+    --success-foreground: 0 0% 100%;
+
+    /* Warning amber */
+    --warning: 45 85% 55%;
+    --warning-foreground: 45 95% 15%;
+
+    /* Destructive */
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* Border and inputs */
+    --border: 120 20% 88%;
+    --input: 120 15% 92%;
+    --ring: 142 76% 36%;
+
+    /* Radius */
+    --radius: 0.75rem;
+
+    /* Gamification colors */
+    --eco-points: 60 85% 55%;
+    --badge-gold: 45 100% 60%;
+    --badge-silver: 0 0% 70%;
+    --badge-bronze: 25 75% 55%;
+
+    /* Gradients */
+    --gradient-eco: linear-gradient(135deg, hsl(142 76% 36%), hsl(160 65% 40%));
+    --gradient-sky: linear-gradient(135deg, hsl(200 85% 60%), hsl(220 70% 50%));
+    --gradient-earth: linear-gradient(135deg, hsl(25 65% 65%), hsl(35 70% 55%));
+    --gradient-success: linear-gradient(135deg, hsl(140 85% 35%), hsl(155 75% 40%));
+
+    /* Shadows */
+    --shadow-eco: 0 4px 20px hsl(142 76% 36% / 0.15);
+    --shadow-glow: 0 0 30px hsl(142 70% 45% / 0.3);
+    --shadow-card: 0 2px 10px hsl(150 25% 15% / 0.08);
+
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    /* Dark mode eco theme */
+    --background: 150 25% 8%;
+    --foreground: 120 20% 95%;
+
+    --card: 150 20% 12%;
+    --card-foreground: 120 20% 95%;
+
+    --popover: 150 20% 12%;
+    --popover-foreground: 120 20% 95%;
+
+    --primary: 142 70% 45%;
+    --primary-foreground: 150 25% 8%;
+    --primary-glow: 142 65% 55%;
+
+    --secondary: 150 15% 18%;
+    --secondary-foreground: 120 20% 90%;
+
+    --muted: 150 10% 15%;
+    --muted-foreground: 150 10% 60%;
+
+    --accent: 200 50% 25%;
+    --accent-foreground: 200 70% 85%;
+
+    --success: 140 75% 45%;
+    --success-foreground: 150 25% 8%;
+
+    --warning: 45 75% 65%;
+    --warning-foreground: 45 95% 15%;
+
+    --destructive: 0 65% 65%;
+    --destructive-foreground: 150 25% 8%;
+
+    --border: 150 15% 20%;
+    --input: 150 10% 18%;
+    --ring: 142 70% 45%;
+
+    /* Dark mode gamification */
+    --eco-points: 60 75% 65%;
+    --badge-gold: 45 90% 70%;
+    --badge-silver: 0 0% 80%;
+    --badge-bronze: 25 65% 65%;
+
+    /* Dark gradients */
+    --gradient-eco: linear-gradient(135deg, hsl(142 70% 45%), hsl(160 60% 50%));
+    --gradient-sky: linear-gradient(135deg, hsl(200 75% 50%), hsl(220 60% 60%));
+    --gradient-earth: linear-gradient(135deg, hsl(25 55% 55%), hsl(35 60% 65%));
+    --gradient-success: linear-gradient(135deg, hsl(140 75% 45%), hsl(155 65% 50%));
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .gradient-eco {
+    background: var(--gradient-eco);
+  }
+  
+  .gradient-sky {
+    background: var(--gradient-sky);
+  }
+  
+  .gradient-earth {
+    background: var(--gradient-earth);
+  }
+  
+  .gradient-success {
+    background: var(--gradient-success);
+  }
+  
+  .shadow-eco {
+    box-shadow: var(--shadow-eco);
+  }
+  
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+  
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+  
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+  
+  .transition-bounce {
+    transition: var(--transition-bounce);
+  }
+
+  .text-eco-points {
+    color: hsl(var(--eco-points));
+  }
+  
+  .text-badge-gold {
+    color: hsl(var(--badge-gold));
+  }
+  
+  .text-badge-silver {
+    color: hsl(var(--badge-silver));
+  }
+  
+  .text-badge-bronze {
+    color: hsl(var(--badge-bronze));
+  }
+  
+  .bg-eco-points {
+    background-color: hsl(var(--eco-points));
+  }
+}

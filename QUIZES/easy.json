@@ -1,0 +1,2126 @@
+[
+  {
+    "id": 1,
+    "question": "Why is it important to plant trees near schools and homes?",
+    "options": [
+      "They give fresh air by releasing oxygen",
+      "They make loud noises",
+      "They block rainwater",
+      "They reduce study time"
+    ],
+    "correct_option": "They give fresh air by releasing oxygen",
+    "explanation": "Trees absorb carbon dioxide and release oxygen, making the air fresher and healthier."
+  },
+  {
+    "id": 2,
+    "question": "Which of these is a renewable energy source that never runs out?",
+    "options": [
+      "Solar energy",
+      "Coal",
+      "Diesel",
+      "Petrol"
+    ],
+    "correct_option": "Solar energy",
+    "explanation": "Solar energy is renewable because it comes from the sun, which will not run out for billions of years."
+  },
+  {
+    "id": 3,
+    "question": "What should you do with leftover plastic bottles?",
+    "options": [
+      "Recycle them",
+      "Throw them in a river",
+      "Burn them in open air",
+      "Bury them in soil"
+    ],
+    "correct_option": "Recycle them",
+    "explanation": "Recycling plastic bottles helps reduce pollution and allows them to be reused in new products."
+  },
+  {
+    "id": 4,
+    "question": "Which gas do humans exhale that plants need to live?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_option": "Carbon dioxide",
+    "explanation": "Humans exhale carbon dioxide, which plants use during photosynthesis to make food."
+  },
+  {
+    "id": 5,
+    "question": "Why should we switch off lights when we leave a room?",
+    "options": [
+      "To save electricity",
+      "To make the fan faster",
+      "To clean the bulb",
+      "To reduce brightness"
+    ],
+    "correct_option": "To save electricity",
+    "explanation": "Switching off lights when not in use helps save electricity and reduces power wastage."
+  },
+    {
+    "id": 6,
+    "question": "Which of these actions helps save water at home?",
+    "options": [
+      "Closing taps when not in use",
+      "Leaving taps running",
+      "Throwing waste in tanks",
+      "Mixing soap in rivers"
+    ],
+    "correct_option": "Closing taps when not in use",
+    "explanation": "Turning off taps prevents wastage of clean water and conserves resources."
+  },
+  {
+    "id": 7,
+    "question": "What is the process called when plants make their own food using sunlight?",
+    "options": [
+      "Photosynthesis",
+      "Evaporation",
+      "Respiration",
+      "Transpiration"
+    ],
+    "correct_option": "Photosynthesis",
+    "explanation": "Photosynthesis is the process in which plants use sunlight, carbon dioxide, and water to make food."
+  },
+  {
+    "id": 8,
+    "question": "Why should plastic waste not be thrown in rivers?",
+    "options": [
+      "It harms aquatic animals",
+      "It makes water tasty",
+      "It dissolves quickly",
+      "It produces oxygen"
+    ],
+    "correct_option": "It harms aquatic animals",
+    "explanation": "Plastic does not dissolve in water and can choke or harm aquatic life."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is the cleanest source of energy?",
+    "options": [
+      "Wind energy",
+      "Diesel",
+      "Coal",
+      "Petrol"
+    ],
+    "correct_option": "Wind energy",
+    "explanation": "Wind energy is clean as it does not produce harmful gases or pollutants."
+  },
+  {
+    "id": 10,
+    "question": "What should we do with old newspapers?",
+    "options": [
+      "Send them for recycling",
+      "Burn them outdoors",
+      "Throw them on streets",
+      "Use them in rivers"
+    ],
+    "correct_option": "Send them for recycling",
+    "explanation": "Recycling old newspapers reduces the need for cutting new trees and helps protect forests."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following gases is needed by humans to breathe?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Methane"
+    ],
+    "correct_option": "Oxygen",
+    "explanation": "Humans inhale oxygen which is vital for respiration and energy production in the body."
+  },
+  {
+    "id": 12,
+    "question": "Which practice reduces electricity bills?",
+    "options": [
+      "Using LED bulbs",
+      "Keeping lights on all day",
+      "Running AC with open windows",
+      "Using old inefficient bulbs"
+    ],
+    "correct_option": "Using LED bulbs",
+    "explanation": "LED bulbs consume less energy and last longer, saving electricity costs."
+  },
+  {
+    "id": 13,
+    "question": "Why should we avoid burning garbage?",
+    "options": [
+      "It causes air pollution",
+      "It creates more oxygen",
+      "It makes plants grow faster",
+      "It reduces soil fertility"
+    ],
+    "correct_option": "It causes air pollution",
+    "explanation": "Burning garbage releases harmful gases that pollute the air and harm health."
+  },
+  {
+    "id": 14,
+    "question": "Which of these helps conserve wildlife?",
+    "options": [
+      "Protecting forests",
+      "Cutting trees",
+      "Hunting animals",
+      "Building roads in jungles"
+    ],
+    "correct_option": "Protecting forests",
+    "explanation": "Forests provide shelter and food for wildlife, conserving them ensures biodiversity."
+  },
+  {
+    "id": 15,
+    "question": "What is the main source of energy for life on Earth?",
+    "options": [
+      "Sunlight",
+      "Coal",
+      "Gasoline",
+      "Petrol"
+    ],
+    "correct_option": "Sunlight",
+    "explanation": "The sun provides energy for plants through photosynthesis and indirectly supports all life."
+  },
+  {
+    "id": 16,
+    "question": "What happens when we waste water?",
+    "options": [
+      "Shortage of drinking water",
+      "Increase in rainfall",
+      "Water becomes cleaner",
+      "Fish population increases"
+    ],
+    "correct_option": "Shortage of drinking water",
+    "explanation": "Wasting water leads to scarcity of clean water, especially in dry regions."
+  },
+  {
+    "id": 17,
+    "question": "Which of these is biodegradable waste?",
+    "options": [
+      "Vegetable peels",
+      "Plastic bags",
+      "Glass bottles",
+      "Aluminum cans"
+    ],
+    "correct_option": "Vegetable peels",
+    "explanation": "Vegetable peels decompose naturally and return nutrients to the soil."
+  },
+  {
+    "id": 18,
+    "question": "Why should we plant more trees in cities?",
+    "options": [
+      "They reduce air pollution",
+      "They increase noise",
+      "They block sunlight completely",
+      "They make streets dirty"
+    ],
+    "correct_option": "They reduce air pollution",
+    "explanation": "Trees absorb pollutants like carbon dioxide and provide shade and oxygen."
+  },
+  {
+    "id": 19,
+    "question": "What should we do with kitchen waste?",
+    "options": [
+      "Make compost",
+      "Throw it in rivers",
+      "Burn it outdoors",
+      "Mix it with plastic waste"
+    ],
+    "correct_option": "Make compost",
+    "explanation": "Kitchen waste can be composted to create natural fertilizer for plants."
+  },
+  {
+    "id": 20,
+    "question": "Which energy is produced by flowing water?",
+    "options": [
+      "Hydropower",
+      "Solar power",
+      "Geothermal power",
+      "Nuclear power"
+    ],
+    "correct_option": "Hydropower",
+    "explanation": "Flowing water is used to turn turbines and produce electricity called hydropower."
+  },
+    {
+    "id": 21,
+    "question": "Which of the following is harmful to soil fertility?",
+    "options": [
+      "Using too many chemical fertilizers",
+      "Adding compost",
+      "Growing different crops",
+      "Planting trees"
+    ],
+    "correct_option": "Using too many chemical fertilizers",
+    "explanation": "Excessive chemical fertilizers damage soil health and reduce long-term fertility."
+  },
+  {
+    "id": 22,
+    "question": "Which practice helps save forests?",
+    "options": [
+      "Using recycled paper",
+      "Cutting more trees",
+      "Burning wood daily",
+      "Wasting notebooks"
+    ],
+    "correct_option": "Using recycled paper",
+    "explanation": "Recycling paper reduces the need for cutting down trees, helping conserve forests."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an example of renewable energy?",
+    "options": [
+      "Geothermal energy",
+      "Petrol",
+      "Diesel",
+      "Natural gas"
+    ],
+    "correct_option": "Geothermal energy",
+    "explanation": "Geothermal energy is renewable as it uses heat from inside the Earth which is sustainable."
+  },
+  {
+    "id": 24,
+    "question": "Why should we avoid wasting food?",
+    "options": [
+      "It wastes resources used in production",
+      "It increases oxygen",
+      "It makes soil fertile",
+      "It reduces hunger"
+    ],
+    "correct_option": "It wastes resources used in production",
+    "explanation": "Food production uses land, water, and energy. Wasting food means wasting these resources too."
+  },
+  {
+    "id": 25,
+    "question": "Which of these reduces plastic pollution?",
+    "options": [
+      "Carrying jute or cloth bags",
+      "Buying more plastic bottles",
+      "Throwing bags in rivers",
+      "Burning plastic openly"
+    ],
+    "correct_option": "Carrying jute or cloth bags",
+    "explanation": "Jute or cloth bags are reusable and help reduce plastic pollution."
+  },
+  {
+    "id": 26,
+    "question": "Which energy source is obtained from the sun?",
+    "options": [
+      "Solar energy",
+      "Coal energy",
+      "Nuclear energy",
+      "Wind energy"
+    ],
+    "correct_option": "Solar energy",
+    "explanation": "Solar energy is captured from the sun's rays and converted into heat or electricity."
+  },
+  {
+    "id": 27,
+    "question": "Why is it important to keep lakes and ponds clean?",
+    "options": [
+      "They are home to many plants and animals",
+      "They make water look clear",
+      "They reduce land area",
+      "They stop rainfall"
+    ],
+    "correct_option": "They are home to many plants and animals",
+    "explanation": "Lakes and ponds provide habitats and clean water for many species."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is an eco-friendly practice?",
+    "options": [
+      "Using bicycles for short distances",
+      "Driving cars for every trip",
+      "Burning waste openly",
+      "Cutting trees for fun"
+    ],
+    "correct_option": "Using bicycles for short distances",
+    "explanation": "Bicycles do not emit harmful gases and reduce air pollution."
+  },
+  {
+    "id": 29,
+    "question": "Why should children be taught about the environment?",
+    "options": [
+      "To build eco-friendly habits early",
+      "To memorize textbooks only",
+      "To waste paper in exams",
+      "To cut more trees"
+    ],
+    "correct_option": "To build eco-friendly habits early",
+    "explanation": "Children can adopt sustainable habits when they are young, which helps the planet long-term."
+  },
+  {
+    "id": 30,
+    "question": "Which of these is biodegradable waste?",
+    "options": [
+      "Banana peels",
+      "Plastic toys",
+      "Aluminum cans",
+      "Glass bottles"
+    ],
+    "correct_option": "Banana peels",
+    "explanation": "Banana peels decompose naturally, unlike plastic or glass."
+  },
+  {
+    "id": 31,
+    "question": "Which step reduces e-waste?",
+    "options": [
+      "Recycling old electronics",
+      "Throwing phones in rivers",
+      "Burning computers",
+      "Using devices carelessly"
+    ],
+    "correct_option": "Recycling old electronics",
+    "explanation": "Recycling electronic waste prevents harmful chemicals from entering soil and water."
+  },
+  {
+    "id": 32,
+    "question": "Which of these activities harms the ozone layer?",
+    "options": [
+      "Using CFC gases in refrigerators",
+      "Planting trees",
+      "Riding bicycles",
+      "Using solar panels"
+    ],
+    "correct_option": "Using CFC gases in refrigerators",
+    "explanation": "CFC gases damage the ozone layer, which protects us from harmful UV rays."
+  },
+  {
+    "id": 33,
+    "question": "What is the main cause of global warming?",
+    "options": [
+      "Excess greenhouse gases",
+      "Too many trees",
+      "Freshwater lakes",
+      "Wind energy"
+    ],
+    "correct_option": "Excess greenhouse gases",
+    "explanation": "Greenhouse gases trap heat in the atmosphere, raising Earth's temperature."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following reduces air pollution?",
+    "options": [
+      "Carpooling",
+      "Driving alone every day",
+      "Burning waste",
+      "Using more coal"
+    ],
+    "correct_option": "Carpooling",
+    "explanation": "Carpooling reduces the number of vehicles on the road, lowering pollution."
+  },
+  {
+    "id": 35,
+    "question": "Which natural resource should we save by turning off taps?",
+    "options": [
+      "Water",
+      "Air",
+      "Soil",
+      "Sunlight"
+    ],
+    "correct_option": "Water",
+    "explanation": "Turning off taps saves clean water, which is limited in supply."
+  },
+  {
+    "id": 36,
+    "question": "Why should farmers avoid overusing pesticides?",
+    "options": [
+      "They harm soil and water",
+      "They produce more food",
+      "They make fruits sweeter",
+      "They clean rivers"
+    ],
+    "correct_option": "They harm soil and water",
+    "explanation": "Excess pesticides contaminate soil and water, harming both nature and people."
+  },
+  {
+    "id": 37,
+    "question": "Which of these helps keep the classroom eco-friendly?",
+    "options": [
+      "Using both sides of paper",
+      "Throwing papers around",
+      "Leaving fans on all night",
+      "Using single-use plastics"
+    ],
+    "correct_option": "Using both sides of paper",
+    "explanation": "Using both sides reduces paper waste and saves trees."
+  },
+  {
+    "id": 38,
+    "question": "Which of these is an example of waste segregation?",
+    "options": [
+      "Separating wet and dry waste",
+      "Throwing everything together",
+      "Burning garbage in open air",
+      "Dumping waste into lakes"
+    ],
+    "correct_option": "Separating wet and dry waste",
+    "explanation": "Waste segregation makes recycling easier and reduces pollution."
+  },
+  {
+    "id": 39,
+    "question": "Why are honeybees important for nature?",
+    "options": [
+      "They help pollinate plants",
+      "They make rivers clean",
+      "They create air pollution",
+      "They stop photosynthesis"
+    ],
+    "correct_option": "They help pollinate plants",
+    "explanation": "Bees pollinate flowers, helping plants grow and produce fruits."
+  },
+  {
+    "id": 40,
+    "question": "What is the best way to reduce noise pollution?",
+    "options": [
+      "Avoid loudspeakers at night",
+      "Honk vehicles unnecessarily",
+      "Cut down trees",
+      "Run factories all night"
+    ],
+    "correct_option": "Avoid loudspeakers at night",
+    "explanation": "Noise control helps people sleep and reduces stress in both humans and animals."
+  },
+  {
+    "id": 41,
+    "question": "Which of these is harmful for rivers?",
+    "options": [
+      "Throwing industrial waste",
+      "Planting trees nearby",
+      "Cleaning banks",
+      "Building eco-friendly parks"
+    ],
+    "correct_option": "Throwing industrial waste",
+    "explanation": "Industrial waste contains chemicals that poison river water."
+  },
+  {
+    "id": 42,
+    "question": "Why is cycling better than driving cars for short trips?",
+    "options": [
+      "It reduces air pollution",
+      "It increases smoke",
+      "It wastes more energy",
+      "It harms plants"
+    ],
+    "correct_option": "It reduces air pollution",
+    "explanation": "Cycling does not release harmful gases and is healthy for the rider."
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a non-renewable resource?",
+    "options": [
+      "Coal",
+      "Wind",
+      "Sunlight",
+      "Water"
+    ],
+    "correct_option": "Coal",
+    "explanation": "Coal takes millions of years to form and cannot be quickly replaced."
+  },
+  {
+    "id": 44,
+    "question": "Why should we keep our surroundings clean?",
+    "options": [
+      "To stay healthy",
+      "To waste time",
+      "To create more garbage",
+      "To attract mosquitoes"
+    ],
+    "correct_option": "To stay healthy",
+    "explanation": "Clean surroundings prevent diseases and improve quality of life."
+  },
+  {
+    "id": 45,
+    "question": "Which energy is produced from wind?",
+    "options": [
+      "Wind energy",
+      "Nuclear energy",
+      "Coal energy",
+      "Petrol energy"
+    ],
+    "correct_option": "Wind energy",
+    "explanation": "Wind energy is generated by turbines using moving air."
+  },
+  {
+    "id": 46,
+    "question": "Which is the best way to travel a short distance eco-friendly?",
+    "options": [
+      "Walking",
+      "Using cars",
+      "Riding motorbikes",
+      "Taking flights"
+    ],
+    "correct_option": "Walking",
+    "explanation": "Walking uses no fuel, reduces pollution, and is healthy."
+  },
+  {
+    "id": 47,
+    "question": "Why should we not waste paper?",
+    "options": [
+      "It comes from trees",
+      "It makes books heavier",
+      "It increases exams",
+      "It reduces light"
+    ],
+    "correct_option": "It comes from trees",
+    "explanation": "Paper is made from trees, and wasting it leads to more deforestation."
+  },
+  {
+    "id": 48,
+    "question": "What is the main benefit of using public transport?",
+    "options": [
+      "Reduces pollution and traffic",
+      "Increases car usage",
+      "Consumes more fuel",
+      "Raises travel cost"
+    ],
+    "correct_option": "Reduces pollution and traffic",
+    "explanation": "Public transport carries many people at once, reducing pollution and congestion."
+  },
+  {
+    "id": 49,
+    "question": "Why should wetlands be protected?",
+    "options": [
+      "They are home to many birds and animals",
+      "They produce plastic",
+      "They reduce oxygen",
+      "They increase noise"
+    ],
+    "correct_option": "They are home to many birds and animals",
+    "explanation": "Wetlands provide habitats and clean water, supporting biodiversity."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following practices helps in reducing carbon footprint?",
+    "options": [
+      "Planting more trees",
+      "Burning coal",
+      "Wasting electricity",
+      "Throwing plastics in forests"
+    ],
+    "correct_option": "Planting more trees",
+    "explanation": "Trees absorb carbon dioxide and reduce overall carbon emissions."
+  },
+    {
+    "id": 51,
+    "question": "Which activity helps in reducing water pollution?",
+    "options": [
+      "Treating sewage before releasing",
+      "Throwing plastic in lakes",
+      "Bathing animals in rivers",
+      "Dumping oil in water"
+    ],
+    "correct_option": "Treating sewage before releasing",
+    "explanation": "Treating sewage prevents harmful chemicals and waste from contaminating rivers and lakes."
+  },
+  {
+    "id": 52,
+    "question": "Why should we save fuel?",
+    "options": [
+      "To reduce pollution and conserve resources",
+      "To make cars lighter",
+      "To increase road traffic",
+      "To make petrol stations busy"
+    ],
+    "correct_option": "To reduce pollution and conserve resources",
+    "explanation": "Fuel is limited and burning it creates pollution; saving fuel conserves it and keeps air cleaner."
+  },
+  {
+    "id": 53,
+    "question": "Which waste can be turned into compost?",
+    "options": [
+      "Vegetable scraps",
+      "Plastic bottles",
+      "Aluminum cans",
+      "Glass pieces"
+    ],
+    "correct_option": "Vegetable scraps",
+    "explanation": "Organic kitchen waste like vegetable peels can decompose and enrich the soil as compost."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following activities increases air pollution?",
+    "options": [
+      "Burning garbage",
+      "Riding bicycles",
+      "Planting trees",
+      "Using solar power"
+    ],
+    "correct_option": "Burning garbage",
+    "explanation": "Burning garbage releases toxic smoke and gases that pollute the air."
+  },
+  {
+    "id": 55,
+    "question": "Which of these reduces noise pollution?",
+    "options": [
+      "Planting trees around houses",
+      "Using more loudspeakers",
+      "Honking continuously",
+      "Running machines all night"
+    ],
+    "correct_option": "Planting trees around houses",
+    "explanation": "Trees act as natural barriers and reduce noise pollution."
+  },
+  {
+    "id": 56,
+    "question": "Why should we avoid deforestation?",
+    "options": [
+      "It destroys animal habitats",
+      "It makes land look empty",
+      "It creates more traffic",
+      "It makes rivers wider"
+    ],
+    "correct_option": "It destroys animal habitats",
+    "explanation": "Deforestation takes away shelter and food sources for animals, reducing biodiversity."
+  },
+  {
+    "id": 57,
+    "question": "Which practice conserves energy at home?",
+    "options": [
+      "Turning off fans when not needed",
+      "Leaving fans running all night",
+      "Using old inefficient appliances",
+      "Keeping lights switched on all day"
+    ],
+    "correct_option": "Turning off fans when not needed",
+    "explanation": "Turning off electrical appliances when not needed helps conserve energy."
+  },
+  {
+    "id": 58,
+    "question": "Which energy is derived from moving water?",
+    "options": [
+      "Hydroelectric power",
+      "Solar power",
+      "Nuclear power",
+      "Geothermal power"
+    ],
+    "correct_option": "Hydroelectric power",
+    "explanation": "Hydropower is generated by using turbines driven by moving or falling water."
+  },
+  {
+    "id": 59,
+    "question": "What should we do to protect endangered species?",
+    "options": [
+      "Protect their natural habitats",
+      "Hunt them for fun",
+      "Sell them in markets",
+      "Keep them as pets"
+    ],
+    "correct_option": "Protect their natural habitats",
+    "explanation": "Endangered species can only survive if their natural environments are preserved."
+  },
+  {
+    "id": 60,
+    "question": "Which waste is non-biodegradable?",
+    "options": [
+      "Plastic bags",
+      "Banana peels",
+      "Paper",
+      "Food scraps"
+    ],
+    "correct_option": "Plastic bags",
+    "explanation": "Plastic bags do not decompose and remain in the environment for hundreds of years."
+  },
+  {
+    "id": 61,
+    "question": "Why should we walk or cycle for nearby places?",
+    "options": [
+      "It reduces fuel use and pollution",
+      "It wastes time",
+      "It increases traffic",
+      "It damages roads"
+    ],
+    "correct_option": "It reduces fuel use and pollution",
+    "explanation": "Walking or cycling reduces dependency on vehicles, saving fuel and reducing emissions."
+  },
+  {
+    "id": 62,
+    "question": "Which of these is an example of clean energy?",
+    "options": [
+      "Solar power",
+      "Diesel",
+      "Coal",
+      "Kerosene"
+    ],
+    "correct_option": "Solar power",
+    "explanation": "Solar power is a clean source of energy that does not pollute the environment."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is the best method to dispose of dry leaves?",
+    "options": [
+      "Make compost from them",
+      "Burn them openly",
+      "Throw them in rivers",
+      "Mix them with plastic"
+    ],
+    "correct_option": "Make compost from them",
+    "explanation": "Composting dry leaves turns them into fertilizer and avoids pollution from burning."
+  },
+  {
+    "id": 64,
+    "question": "Why should we avoid using plastic straws?",
+    "options": [
+      "They harm marine life",
+      "They make drinks colder",
+      "They are too colorful",
+      "They break quickly"
+    ],
+    "correct_option": "They harm marine life",
+    "explanation": "Plastic straws often end up in oceans, harming fish and other marine animals."
+  },
+  {
+    "id": 65,
+    "question": "Which of these helps reduce global warming?",
+    "options": [
+      "Planting more trees",
+      "Burning more coal",
+      "Using more plastic",
+      "Cutting down forests"
+    ],
+    "correct_option": "Planting more trees",
+    "explanation": "Trees absorb carbon dioxide, a major greenhouse gas, helping reduce global warming."
+  },
+  {
+    "id": 66,
+    "question": "Which type of waste should go into blue bins?",
+    "options": [
+      "Dry waste like paper and plastic",
+      "Food waste",
+      "Garden leaves",
+      "Wet organic waste"
+    ],
+    "correct_option": "Dry waste like paper and plastic",
+    "explanation": "Blue bins are usually used for dry waste such as paper, cardboard, and plastics."
+  },
+  {
+    "id": 67,
+    "question": "What is rainwater harvesting?",
+    "options": [
+      "Collecting and storing rainwater",
+      "Wasting water",
+      "Mixing rainwater with sewage",
+      "Throwing rainwater away"
+    ],
+    "correct_option": "Collecting and storing rainwater",
+    "explanation": "Rainwater harvesting is the practice of collecting rain for reuse in homes or agriculture."
+  },
+  {
+    "id": 68,
+    "question": "Which of these reduces deforestation?",
+    "options": [
+      "Using digital documents",
+      "Wasting paper",
+      "Printing unnecessarily",
+      "Cutting down forests"
+    ],
+    "correct_option": "Using digital documents",
+    "explanation": "Using digital methods reduces the need for paper, lowering tree cutting."
+  },
+  {
+    "id": 69,
+    "question": "Why is soil conservation important?",
+    "options": [
+      "It maintains fertility for crops",
+      "It increases soil erosion",
+      "It makes soil harder",
+      "It reduces plant growth"
+    ],
+    "correct_option": "It maintains fertility for crops",
+    "explanation": "Soil conservation prevents erosion and keeps soil fertile for farming."
+  },
+  {
+    "id": 70,
+    "question": "Which activity reduces waste generation?",
+    "options": [
+      "Reusing items",
+      "Throwing things away",
+      "Burning plastics",
+      "Using disposables"
+    ],
+    "correct_option": "Reusing items",
+    "explanation": "Reusing products reduces the need to produce new items and lowers waste."
+  },
+  {
+    "id": 71,
+    "question": "Why should forests be protected?",
+    "options": [
+      "They provide oxygen and homes for animals",
+      "They increase noise",
+      "They block sunlight",
+      "They cause droughts"
+    ],
+    "correct_option": "They provide oxygen and homes for animals",
+    "explanation": "Forests provide oxygen, water, and shelter for countless species, keeping ecosystems balanced."
+  },
+  {
+    "id": 72,
+    "question": "Which practice helps reduce school waste?",
+    "options": [
+      "Using reusable bottles",
+      "Throwing papers on the ground",
+      "Burning notebooks",
+      "Using single-use plastics"
+    ],
+    "correct_option": "Using reusable bottles",
+    "explanation": "Reusable bottles reduce plastic waste and are more eco-friendly."
+  },
+  {
+    "id": 73,
+    "question": "Which natural resource do we save by switching off taps?",
+    "options": [
+      "Water",
+      "Coal",
+      "Petrol",
+      "Oxygen"
+    ],
+    "correct_option": "Water",
+    "explanation": "Switching off taps prevents wastage of clean and limited fresh water."
+  },
+  {
+    "id": 74,
+    "question": "Why should plastic bags be banned?",
+    "options": [
+      "They pollute land and water",
+      "They give oxygen",
+      "They clean rivers",
+      "They decompose quickly"
+    ],
+    "correct_option": "They pollute land and water",
+    "explanation": "Plastic bags stay in the environment for hundreds of years, polluting land and water."
+  },
+  {
+    "id": 75,
+    "question": "Which source of energy uses moving air?",
+    "options": [
+      "Wind energy",
+      "Nuclear energy",
+      "Coal energy",
+      "Diesel energy"
+    ],
+    "correct_option": "Wind energy",
+    "explanation": "Wind turbines use moving air to generate electricity."
+  },
+  {
+    "id": 76,
+    "question": "Which activity conserves electricity?",
+    "options": [
+      "Switching off appliances when not in use",
+      "Keeping TV on all night",
+      "Running AC with doors open",
+      "Using old bulbs"
+    ],
+    "correct_option": "Switching off appliances when not in use",
+    "explanation": "Switching off unused appliances saves energy and reduces pollution."
+  },
+  {
+    "id": 77,
+    "question": "Why should we segregate waste at home?",
+    "options": [
+      "It makes recycling easier",
+      "It wastes more time",
+      "It reduces recycling",
+      "It creates more garbage"
+    ],
+    "correct_option": "It makes recycling easier",
+    "explanation": "Segregating waste into wet and dry categories makes recycling more efficient."
+  },
+  {
+    "id": 78,
+    "question": "Which of these helps conserve water?",
+    "options": [
+      "Fixing leaking taps",
+      "Leaving taps open",
+      "Throwing waste in tanks",
+      "Washing cars with running hoses"
+    ],
+    "correct_option": "Fixing leaking taps",
+    "explanation": "Fixing leaks prevents water loss and saves clean water."
+  },
+  {
+    "id": 79,
+    "question": "Why is it harmful to throw batteries in garbage?",
+    "options": [
+      "They release harmful chemicals",
+      "They make soil fertile",
+      "They increase plant growth",
+      "They produce oxygen"
+    ],
+    "correct_option": "They release harmful chemicals",
+    "explanation": "Batteries contain chemicals that leak into soil and water, harming life."
+  },
+  {
+    "id": 80,
+    "question": "Which practice helps reduce global warming?",
+    "options": [
+      "Using renewable energy",
+      "Burning more fuel",
+      "Cutting down forests",
+      "Wasting water"
+    ],
+    "correct_option": "Using renewable energy",
+    "explanation": "Renewable energy like solar and wind produces no greenhouse gases, reducing warming."
+  },
+  {
+    "id": 81,
+    "question": "Which color bin is usually used for biodegradable waste?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "correct_option": "Green",
+    "explanation": "Green bins are generally used for kitchen and biodegradable waste."
+  },
+  {
+    "id": 82,
+    "question": "Which practice protects animals in forests?",
+    "options": [
+      "Stopping hunting",
+      "Cutting trees",
+      "Burning jungles",
+      "Throwing plastic waste"
+    ],
+    "correct_option": "Stopping hunting",
+    "explanation": "Hunting reduces animal populations and threatens ecosystems."
+  },
+  {
+    "id": 83,
+    "question": "Why should farmers use organic manure?",
+    "options": [
+      "It keeps soil healthy",
+      "It pollutes water",
+      "It kills trees",
+      "It increases plastic waste"
+    ],
+    "correct_option": "It keeps soil healthy",
+    "explanation": "Organic manure enriches soil fertility naturally without chemicals."
+  },
+  {
+    "id": 84,
+    "question": "Which energy source is safe for the environment?",
+    "options": [
+      "Solar power",
+      "Diesel",
+      "Coal",
+      "Petrol"
+    ],
+    "correct_option": "Solar power",
+    "explanation": "Solar power produces no harmful gases, making it safe for the environment."
+  },
+  {
+    "id": 85,
+    "question": "Why should we reuse plastic bottles?",
+    "options": [
+      "To reduce plastic waste",
+      "To waste more plastic",
+      "To make rivers dirty",
+      "To burn them later"
+    ],
+    "correct_option": "To reduce plastic waste",
+    "explanation": "Reusing bottles reduces the amount of plastic thrown away and pollution."
+  },
+  {
+    "id": 86,
+    "question": "Which activity protects rivers?",
+    "options": [
+      "Avoiding dumping waste",
+      "Throwing chemicals",
+      "Bathing animals",
+      "Pouring oil in water"
+    ],
+    "correct_option": "Avoiding dumping waste",
+    "explanation": "Not dumping waste keeps rivers clean and safe for aquatic life."
+  },
+  {
+    "id": 87,
+    "question": "Which gas do plants release during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correct_option": "Oxygen",
+    "explanation": "Plants release oxygen during photosynthesis, which humans and animals need to survive."
+  },
+  {
+    "id": 88,
+    "question": "Why is it important to recycle glass?",
+    "options": [
+      "It can be reused endlessly",
+      "It dissolves in water",
+      "It creates air pollution",
+      "It reduces oxygen"
+    ],
+    "correct_option": "It can be reused endlessly",
+    "explanation": "Glass can be recycled many times without losing quality, reducing waste."
+  },
+  {
+    "id": 89,
+    "question": "Which practice reduces school paper waste?",
+    "options": [
+      "Using both sides of notebooks",
+      "Throwing pages",
+      "Wasting chart papers",
+      "Printing unnecessarily"
+    ],
+    "correct_option": "Using both sides of notebooks",
+    "explanation": "Using both sides reduces waste and saves trees."
+  },
+  {
+    "id": 90,
+    "question": "Which is the cleanest source of cooking fuel?",
+    "options": [
+      "Biogas",
+      "Coal",
+      "Diesel",
+      "Kerosene"
+    ],
+    "correct_option": "Biogas",
+    "explanation": "Biogas is clean and renewable, reducing smoke and pollution in cooking."
+  },
+  {
+    "id": 91,
+    "question": "Why should wetlands be conserved?",
+    "options": [
+      "They support biodiversity",
+      "They create noise",
+      "They pollute air",
+      "They block oxygen"
+    ],
+    "correct_option": "They support biodiversity",
+    "explanation": "Wetlands are rich habitats for birds, fish, and plants, supporting biodiversity."
+  },
+  {
+    "id": 92,
+    "question": "Which of these wastes is recyclable?",
+    "options": [
+      "Aluminum cans",
+      "Food scraps",
+      "Banana peels",
+      "Garden leaves"
+    ],
+    "correct_option": "Aluminum cans",
+    "explanation": "Aluminum can be recycled many times and saves energy compared to making new metal."
+  },
+  {
+    "id": 93,
+    "question": "Why should we reduce plastic packaging?",
+    "options": [
+      "It creates pollution",
+      "It increases oxygen",
+      "It makes food tastier",
+      "It reduces traffic"
+    ],
+    "correct_option": "It creates pollution",
+    "explanation": "Plastic packaging leads to more waste and pollution, harming land and oceans."
+  },
+  {
+    "id": 94,
+    "question": "Which practice reduces deforestation?",
+    "options": [
+      "Using ebooks instead of printed books",
+      "Throwing paper",
+      "Burning books",
+      "Cutting trees"
+    ],
+    "correct_option": "Using ebooks instead of printed books",
+    "explanation": "Ebooks reduce the need for paper, saving trees and forests."
+  },
+  {
+    "id": 95,
+    "question": "Which of these pollutes air the most?",
+    "options": [
+      "Burning fossil fuels",
+      "Walking",
+      "Cycling",
+      "Using solar power"
+    ],
+    "correct_option": "Burning fossil fuels",
+    "explanation": "Fossil fuel burning releases carbon dioxide and harmful gases into the atmosphere."
+  },
+  {
+    "id": 96,
+    "question": "Why should we save paper?",
+    "options": [
+      "It saves trees",
+      "It makes notebooks heavy",
+      "It increases dust",
+      "It reduces light"
+    ],
+    "correct_option": "It saves trees",
+    "explanation": "Paper is made from trees, so saving paper reduces deforestation."
+  },
+  {
+    "id": 97,
+    "question": "Which practice reduces noise in cities?",
+    "options": [
+      "Using electric vehicles",
+      "Honking horns",
+      "Using loudspeakers",
+      "Running factories at night"
+    ],
+    "correct_option": "Using electric vehicles",
+    "explanation": "Electric vehicles produce less noise and reduce sound pollution in cities."
+  },
+  {
+    "id": 98,
+    "question": "Why should we switch to renewable energy?",
+    "options": [
+      "It is cleaner and unlimited",
+      "It pollutes more",
+      "It finishes quickly",
+      "It wastes money"
+    ],
+    "correct_option": "It is cleaner and unlimited",
+    "explanation": "Renewable energy sources like solar and wind are sustainable and do not cause pollution."
+  },
+  {
+    "id": 99,
+    "question": "Which type of waste is suitable for composting?",
+    "options": [
+      "Fruit and vegetable peels",
+      "Plastic wrappers",
+      "Glass bottles",
+      "Metal scraps"
+    ],
+    "correct_option": "Fruit and vegetable peels",
+    "explanation": "Organic waste like fruit peels decomposes into compost, enriching soil."
+  },
+  {
+    "id": 100,
+    "question": "Why should we avoid using fireworks?",
+    "options": [
+      "They cause air and noise pollution",
+      "They increase oxygen",
+      "They make food tastier",
+      "They reduce rainfall"
+    ],
+    "correct_option": "They cause air and noise pollution",
+    "explanation": "Fireworks release harmful smoke and create loud noises that affect humans and animals."
+  },
+    {
+    "id": 101,
+    "question": "Which of these is a renewable natural resource?",
+    "options": [
+      "Sunlight",
+      "Petrol",
+      "Coal",
+      "Diesel"
+    ],
+    "correct_option": "Sunlight",
+    "explanation": "Sunlight is renewable as it is continuously available and does not deplete."
+  },
+  {
+    "id": 102,
+    "question": "Why should children bring reusable lunch boxes to school?",
+    "options": [
+      "It reduces plastic waste",
+      "It makes food heavier",
+      "It increases pollution",
+      "It wastes money"
+    ],
+    "correct_option": "It reduces plastic waste",
+    "explanation": "Reusable lunch boxes cut down on single-use plastics and reduce waste."
+  },
+  {
+    "id": 103,
+    "question": "Which of these saves water while brushing teeth?",
+    "options": [
+      "Closing the tap",
+      "Keeping tap running",
+      "Using a pipe",
+      "Pouring water continuously"
+    ],
+    "correct_option": "Closing the tap",
+    "explanation": "Turning off taps while brushing saves liters of water daily."
+  },
+  {
+    "id": 104,
+    "question": "Which practice keeps air clean?",
+    "options": [
+      "Planting more trees",
+      "Burning plastics",
+      "Using diesel cars",
+      "Deforestation"
+    ],
+    "correct_option": "Planting more trees",
+    "explanation": "Trees absorb carbon dioxide and provide fresh oxygen, improving air quality."
+  },
+  {
+    "id": 105,
+    "question": "What is the main advantage of biogas?",
+    "options": [
+      "It reduces waste and produces clean fuel",
+      "It creates more garbage",
+      "It increases smoke",
+      "It pollutes water"
+    ],
+    "correct_option": "It reduces waste and produces clean fuel",
+    "explanation": "Biogas converts organic waste into a clean fuel, reducing waste and pollution."
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is biodegradable?",
+    "options": [
+      "Apple core",
+      "Plastic spoon",
+      "Glass bottle",
+      "Metal can"
+    ],
+    "correct_option": "Apple core",
+    "explanation": "Apple cores decompose naturally and return nutrients to the soil."
+  },
+  {
+    "id": 107,
+    "question": "Why should we close fridge doors quickly?",
+    "options": [
+      "To save electricity",
+      "To waste time",
+      "To make food heavier",
+      "To reduce oxygen"
+    ],
+    "correct_option": "To save electricity",
+    "explanation": "Keeping fridge doors open uses more power as the fridge works harder to cool."
+  },
+  {
+    "id": 108,
+    "question": "Which practice helps reduce school waste?",
+    "options": [
+      "Using digital notes",
+      "Throwing papers",
+      "Wasting chalk",
+      "Using single-use plastics"
+    ],
+    "correct_option": "Using digital notes",
+    "explanation": "Digital notes reduce paper usage and make classrooms more eco-friendly."
+  },
+  {
+    "id": 109,
+    "question": "Which of the following reduces soil pollution?",
+    "options": [
+      "Proper waste disposal",
+      "Throwing garbage openly",
+      "Using plastics everywhere",
+      "Dumping chemicals in fields"
+    ],
+    "correct_option": "Proper waste disposal",
+    "explanation": "Proper disposal prevents toxic chemicals from contaminating soil."
+  },
+  {
+    "id": 110,
+    "question": "Which energy is produced by the Earth’s heat?",
+    "options": [
+      "Geothermal energy",
+      "Solar energy",
+      "Hydropower",
+      "Wind energy"
+    ],
+    "correct_option": "Geothermal energy",
+    "explanation": "Geothermal energy comes from heat stored beneath the Earth's surface."
+  },
+  {
+    "id": 111,
+    "question": "Why is saving biodiversity important?",
+    "options": [
+      "It maintains balance in nature",
+      "It wastes resources",
+      "It reduces oxygen",
+      "It increases pollution"
+    ],
+    "correct_option": "It maintains balance in nature",
+    "explanation": "Biodiversity ensures ecosystems remain stable and functional."
+  },
+  {
+    "id": 112,
+    "question": "Which is the most eco-friendly way of carrying water?",
+    "options": [
+      "Reusable steel bottle",
+      "Plastic disposable bottle",
+      "Polythene bag",
+      "Glass once-use bottle"
+    ],
+    "correct_option": "Reusable steel bottle",
+    "explanation": "Reusable bottles cut down on plastic waste and are durable."
+  },
+  {
+    "id": 113,
+    "question": "Which of these practices helps conserve forests?",
+    "options": [
+      "Afforestation",
+      "Deforestation",
+      "Burning wood",
+      "Wasting paper"
+    ],
+    "correct_option": "Afforestation",
+    "explanation": "Planting more trees (afforestation) restores forest cover and helps the environment."
+  },
+  {
+    "id": 114,
+    "question": "Why should farmers rotate crops?",
+    "options": [
+      "To maintain soil fertility",
+      "To waste seeds",
+      "To reduce biodiversity",
+      "To increase pests"
+    ],
+    "correct_option": "To maintain soil fertility",
+    "explanation": "Crop rotation prevents soil nutrient depletion and improves yield."
+  },
+  {
+    "id": 115,
+    "question": "Which of these is an example of renewable fuel?",
+    "options": [
+      "Biogas",
+      "Coal",
+      "Petrol",
+      "Diesel"
+    ],
+    "correct_option": "Biogas",
+    "explanation": "Biogas is renewable as it is produced from organic waste."
+  },
+  {
+    "id": 116,
+    "question": "Which of these reduces electricity use?",
+    "options": [
+      "Using natural sunlight in the day",
+      "Turning lights on all day",
+      "Running fans all night",
+      "Using old appliances"
+    ],
+    "correct_option": "Using natural sunlight in the day",
+    "explanation": "Natural sunlight reduces the need for artificial lighting, saving electricity."
+  },
+  {
+    "id": 117,
+    "question": "Why should we protect mountains?",
+    "options": [
+      "They store water and support biodiversity",
+      "They create traffic",
+      "They make roads harder",
+      "They reduce oxygen"
+    ],
+    "correct_option": "They store water and support biodiversity",
+    "explanation": "Mountains are important for water storage and habitats for many species."
+  },
+  {
+    "id": 118,
+    "question": "Which of these is the cleanest form of public transport?",
+    "options": [
+      "Electric train",
+      "Diesel bus",
+      "Car",
+      "Motorbike"
+    ],
+    "correct_option": "Electric train",
+    "explanation": "Electric trains run on clean energy and carry many passengers at once."
+  },
+  {
+    "id": 119,
+    "question": "Why should wetlands be conserved?",
+    "options": [
+      "They control floods and support wildlife",
+      "They increase plastic waste",
+      "They reduce plant growth",
+      "They block rainfall"
+    ],
+    "correct_option": "They control floods and support wildlife",
+    "explanation": "Wetlands absorb excess water, prevent floods, and are home to many species."
+  },
+  {
+    "id": 120,
+    "question": "Which of these reduces electronic waste?",
+    "options": [
+      "Repairing and reusing devices",
+      "Throwing mobiles in dustbins",
+      "Burning old electronics",
+      "Discarding computers carelessly"
+    ],
+    "correct_option": "Repairing and reusing devices",
+    "explanation": "Repairing extends the life of devices and reduces e-waste."
+  },
+  {
+    "id": 121,
+    "question": "Why should schools encourage tree planting?",
+    "options": [
+      "It builds awareness among students",
+      "It wastes time",
+      "It reduces greenery",
+      "It increases pollution"
+    ],
+    "correct_option": "It builds awareness among students",
+    "explanation": "Tree planting teaches students responsibility and care for the environment."
+  },
+  {
+    "id": 122,
+    "question": "Which of these saves the most paper?",
+    "options": [
+      "Using e-books",
+      "Printing every page",
+      "Throwing notebooks",
+      "Burning newspapers"
+    ],
+    "correct_option": "Using e-books",
+    "explanation": "E-books replace printed materials, saving paper and trees."
+  },
+  {
+    "id": 123,
+    "question": "Which of these is harmful for the ozone layer?",
+    "options": [
+      "CFCs in sprays",
+      "Using solar cookers",
+      "Planting trees",
+      "Wind turbines"
+    ],
+    "correct_option": "CFCs in sprays",
+    "explanation": "CFC gases damage the ozone layer that protects Earth from harmful UV rays."
+  },
+  {
+    "id": 124,
+    "question": "Why should we recycle metals?",
+    "options": [
+      "It saves energy and resources",
+      "It wastes electricity",
+      "It pollutes rivers",
+      "It increases mining"
+    ],
+    "correct_option": "It saves energy and resources",
+    "explanation": "Recycling metals saves raw materials and uses less energy compared to new mining."
+  },
+  {
+    "id": 125,
+    "question": "Which of these practices helps reduce air pollution?",
+    "options": [
+      "Using electric buses",
+      "Burning coal",
+      "Driving petrol cars daily",
+      "Throwing waste in air"
+    ],
+    "correct_option": "Using electric buses",
+    "explanation": "Electric buses produce no emissions and can carry many passengers."
+  },
+  {
+    "id": 126,
+    "question": "Why should we protect rainforests?",
+    "options": [
+      "They produce oxygen and regulate climate",
+      "They increase pollution",
+      "They block rivers",
+      "They reduce animals"
+    ],
+    "correct_option": "They produce oxygen and regulate climate",
+    "explanation": "Rainforests absorb carbon dioxide, produce oxygen, and maintain the Earth's climate."
+  },
+  {
+    "id": 127,
+    "question": "Which of these is an eco-friendly fuel?",
+    "options": [
+      "Biofuel",
+      "Diesel",
+      "Petrol",
+      "Coal"
+    ],
+    "correct_option": "Biofuel",
+    "explanation": "Biofuels are made from plants and organic waste, making them eco-friendly."
+  },
+  {
+    "id": 128,
+    "question": "Why should we keep parks clean?",
+    "options": [
+      "It keeps the environment healthy",
+      "It creates more litter",
+      "It attracts pests",
+      "It reduces oxygen"
+    ],
+    "correct_option": "It keeps the environment healthy",
+    "explanation": "Clean parks provide safe spaces for recreation and support plants and animals."
+  },
+  {
+    "id": 129,
+    "question": "Which of these is a good alternative to plastic bags?",
+    "options": [
+      "Cloth bags",
+      "Disposable bags",
+      "Polythene covers",
+      "Plastic wraps"
+    ],
+    "correct_option": "Cloth bags",
+    "explanation": "Cloth bags are reusable, strong, and do not pollute the environment."
+  },
+  {
+    "id": 130,
+    "question": "Why should solar cookers be used?",
+    "options": [
+      "They save fuel and reduce smoke",
+      "They make food unhealthy",
+      "They increase pollution",
+      "They waste sunlight"
+    ],
+    "correct_option": "They save fuel and reduce smoke",
+    "explanation": "Solar cookers use sunlight, reducing the need for fuel and cutting smoke emissions."
+  },
+    {
+    "id": 151,
+    "question": "Which of these is the best way to reduce kitchen waste?",
+    "options": [
+      "Making compost",
+      "Throwing it in rivers",
+      "Burning it outdoors",
+      "Mixing it with plastic"
+    ],
+    "correct_option": "Making compost",
+    "explanation": "Kitchen waste can be turned into compost, which acts as natural fertilizer for plants."
+  },
+  {
+    "id": 152,
+    "question": "Why should we use both sides of a notebook?",
+    "options": [
+      "It saves paper",
+      "It wastes time",
+      "It makes notebooks heavy",
+      "It increases exams"
+    ],
+    "correct_option": "It saves paper",
+    "explanation": "Using both sides of paper reduces wastage and saves trees."
+  },
+  {
+    "id": 153,
+    "question": "Which activity protects forests?",
+    "options": [
+      "Planting more trees",
+      "Cutting trees illegally",
+      "Burning wood daily",
+      "Wasting paper"
+    ],
+    "correct_option": "Planting more trees",
+    "explanation": "Planting trees increases green cover and helps preserve forests."
+  },
+  {
+    "id": 154,
+    "question": "Which of these is an eco-friendly way of travelling?",
+    "options": [
+      "Cycling",
+      "Driving cars alone",
+      "Riding motorbikes daily",
+      "Flying short distances"
+    ],
+    "correct_option": "Cycling",
+    "explanation": "Cycling is pollution-free and good for health."
+  },
+  {
+    "id": 155,
+    "question": "Why should we reduce single-use plastics?",
+    "options": [
+      "They cause long-lasting pollution",
+      "They increase oxygen",
+      "They clean rivers",
+      "They decompose fast"
+    ],
+    "correct_option": "They cause long-lasting pollution",
+    "explanation": "Single-use plastics stay in the environment for centuries and harm ecosystems."
+  },
+  {
+    "id": 156,
+    "question": "Which energy is produced from sunlight?",
+    "options": [
+      "Solar energy",
+      "Nuclear energy",
+      "Coal energy",
+      "Petrol energy"
+    ],
+    "correct_option": "Solar energy",
+    "explanation": "Solar energy is captured from the sun’s rays and used for heat and electricity."
+  },
+  {
+    "id": 157,
+    "question": "Which of these reduces e-waste at schools?",
+    "options": [
+      "Donating old computers",
+      "Throwing devices in bins",
+      "Burning electronics",
+      "Breaking phones for fun"
+    ],
+    "correct_option": "Donating old computers",
+    "explanation": "Donating extends device life and reduces electronic waste."
+  },
+  {
+    "id": 158,
+    "question": "Why should we recycle paper?",
+    "options": [
+      "It reduces the need for cutting trees",
+      "It increases pollution",
+      "It wastes water",
+      "It makes notebooks heavier"
+    ],
+    "correct_option": "It reduces the need for cutting trees",
+    "explanation": "Recycling paper saves trees and protects forests."
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is biodegradable waste?",
+    "options": [
+      "Food leftovers",
+      "Plastic bags",
+      "Glass bottles",
+      "Aluminum cans"
+    ],
+    "correct_option": "Food leftovers",
+    "explanation": "Food leftovers decompose naturally and can be composted."
+  },
+  {
+    "id": 160,
+    "question": "Why should we conserve electricity?",
+    "options": [
+      "To reduce pollution from power plants",
+      "To waste time",
+      "To increase traffic",
+      "To make bulbs heavier"
+    ],
+    "correct_option": "To reduce pollution from power plants",
+    "explanation": "Less electricity use reduces burning of coal and lowers pollution."
+  },
+  {
+    "id": 161,
+    "question": "Which action helps reduce carbon footprint?",
+    "options": [
+      "Planting trees",
+      "Burning coal",
+      "Driving more cars",
+      "Cutting forests"
+    ],
+    "correct_option": "Planting trees",
+    "explanation": "Trees absorb carbon dioxide and reduce greenhouse gases."
+  },
+  {
+    "id": 162,
+    "question": "Why should we reuse old clothes?",
+    "options": [
+      "It reduces textile waste",
+      "It increases garbage",
+      "It pollutes rivers",
+      "It wastes money"
+    ],
+    "correct_option": "It reduces textile waste",
+    "explanation": "Reusing or donating old clothes reduces textile waste and helps others."
+  },
+  {
+    "id": 163,
+    "question": "Which is a clean fuel for cooking?",
+    "options": [
+      "Biogas",
+      "Coal",
+      "Kerosene",
+      "Diesel"
+    ],
+    "correct_option": "Biogas",
+    "explanation": "Biogas is renewable, clean, and produces less smoke while cooking."
+  },
+  {
+    "id": 164,
+    "question": "Why should we protect coral reefs?",
+    "options": [
+      "They support marine biodiversity",
+      "They increase plastic",
+      "They pollute oceans",
+      "They block sunlight"
+    ],
+    "correct_option": "They support marine biodiversity",
+    "explanation": "Coral reefs are home to thousands of marine species and protect coastlines."
+  },
+  {
+    "id": 165,
+    "question": "Which is the best way to reduce air pollution?",
+    "options": [
+      "Using public transport",
+      "Burning waste",
+      "Using diesel generators",
+      "Cutting trees"
+    ],
+    "correct_option": "Using public transport",
+    "explanation": "Public transport reduces the number of vehicles on the road, lowering emissions."
+  },
+  {
+    "id": 166,
+    "question": "Why should we save forests?",
+    "options": [
+      "They provide oxygen and resources",
+      "They create pollution",
+      "They increase floods",
+      "They reduce biodiversity"
+    ],
+    "correct_option": "They provide oxygen and resources",
+    "explanation": "Forests provide oxygen, food, and shelter, making them essential for life."
+  },
+  {
+    "id": 167,
+    "question": "Which practice saves the most water while gardening?",
+    "options": [
+      "Using drip irrigation",
+      "Flooding the plants",
+      "Leaving taps open",
+      "Overwatering daily"
+    ],
+    "correct_option": "Using drip irrigation",
+    "explanation": "Drip irrigation delivers water directly to roots, saving water efficiently."
+  },
+  {
+    "id": 168,
+    "question": "Why should we use bicycles?",
+    "options": [
+      "They reduce air pollution and keep us healthy",
+      "They create more traffic",
+      "They waste fuel",
+      "They increase smoke"
+    ],
+    "correct_option": "They reduce air pollution and keep us healthy",
+    "explanation": "Bicycles emit no gases and provide health benefits."
+  },
+  {
+    "id": 169,
+    "question": "Which waste is recyclable?",
+    "options": [
+      "Glass bottles",
+      "Food scraps",
+      "Banana peels",
+      "Garden leaves"
+    ],
+    "correct_option": "Glass bottles",
+    "explanation": "Glass can be recycled multiple times without losing quality."
+  },
+  {
+    "id": 170,
+    "question": "Why should we save energy at home?",
+    "options": [
+      "To reduce pollution and bills",
+      "To make bulbs heavier",
+      "To waste resources",
+      "To increase garbage"
+    ],
+    "correct_option": "To reduce pollution and bills",
+    "explanation": "Saving energy reduces pollution and saves money on electricity bills."
+  },
+  {
+    "id": 171,
+    "question": "Which practice reduces school waste?",
+    "options": [
+      "Reusing notebooks",
+      "Throwing papers",
+      "Burning plastics",
+      "Using disposable bottles"
+    ],
+    "correct_option": "Reusing notebooks",
+    "explanation": "Reusing notebooks reduces paper consumption and saves trees."
+  },
+  {
+    "id": 172,
+    "question": "Why should we avoid littering streets?",
+    "options": [
+      "It keeps surroundings clean",
+      "It increases disease",
+      "It reduces oxygen",
+      "It makes soil fertile"
+    ],
+    "correct_option": "It keeps surroundings clean",
+    "explanation": "Not littering keeps the environment clean and prevents diseases."
+  },
+  {
+    "id": 173,
+    "question": "Which energy source is pollution-free?",
+    "options": [
+      "Wind energy",
+      "Diesel",
+      "Coal",
+      "Kerosene"
+    ],
+    "correct_option": "Wind energy",
+    "explanation": "Wind turbines generate electricity without releasing harmful gases."
+  },
+  {
+    "id": 174,
+    "question": "Why should we protect animals?",
+    "options": [
+      "They maintain balance in ecosystems",
+      "They increase waste",
+      "They pollute water",
+      "They reduce greenery"
+    ],
+    "correct_option": "They maintain balance in ecosystems",
+    "explanation": "Animals play key roles in food chains and ecological balance."
+  },
+  {
+    "id": 175,
+    "question": "Which practice saves fuel?",
+    "options": [
+      "Carpooling",
+      "Driving alone daily",
+      "Keeping engines on idle",
+      "Over-speeding vehicles"
+    ],
+    "correct_option": "Carpooling",
+    "explanation": "Carpooling reduces the number of cars on roads, saving fuel and reducing pollution."
+  },
+  {
+    "id": 176,
+    "question": "Why should we recycle plastics?",
+    "options": [
+      "It reduces pollution and waste",
+      "It increases landfills",
+      "It wastes energy",
+      "It pollutes rivers"
+    ],
+    "correct_option": "It reduces pollution and waste",
+    "explanation": "Recycling plastic prevents waste from entering oceans and saves resources."
+  },
+  {
+    "id": 177,
+    "question": "Which is an eco-friendly way of celebrating festivals?",
+    "options": [
+      "Using natural decorations",
+      "Using plastic items",
+      "Burning crackers",
+      "Throwing waste on roads"
+    ],
+    "correct_option": "Using natural decorations",
+    "explanation": "Natural decorations are biodegradable and reduce pollution."
+  },
+  {
+    "id": 178,
+    "question": "Why should we reduce noise pollution?",
+    "options": [
+      "It disturbs humans and animals",
+      "It creates oxygen",
+      "It makes rivers clean",
+      "It reduces dust"
+    ],
+    "correct_option": "It disturbs humans and animals",
+    "explanation": "Noise pollution causes stress and health issues in humans and animals."
+  },
+  {
+    "id": 179,
+    "question": "Which of these protects soil?",
+    "options": [
+      "Planting cover crops",
+      "Throwing chemicals",
+      "Cutting trees",
+      "Burning forests"
+    ],
+    "correct_option": "Planting cover crops",
+    "explanation": "Cover crops prevent soil erosion and enrich fertility."
+  },
+  {
+    "id": 180,
+    "question": "Why should we save rainwater?",
+    "options": [
+      "It reduces water scarcity",
+      "It wastes resources",
+      "It pollutes air",
+      "It increases floods"
+    ],
+    "correct_option": "It reduces water scarcity",
+    "explanation": "Harvested rainwater can be stored and used in dry seasons."
+  },
+  {
+    "id": 181,
+    "question": "Which practice reduces plastic bottle waste?",
+    "options": [
+      "Using refillable bottles",
+      "Throwing bottles",
+      "Burning bottles",
+      "Dumping bottles in oceans"
+    ],
+    "correct_option": "Using refillable bottles",
+    "explanation": "Refillable bottles reduce single-use plastic and pollution."
+  },
+  {
+    "id": 182,
+    "question": "Why should wetlands be protected?",
+    "options": [
+      "They clean water and support biodiversity",
+      "They produce plastics",
+      "They increase smoke",
+      "They block oxygen"
+    ],
+    "correct_option": "They clean water and support biodiversity",
+    "explanation": "Wetlands filter water naturally and are habitats for many species."
+  },
+  {
+    "id": 183,
+    "question": "Which of these is the best way to handle e-waste?",
+    "options": [
+      "Send to recycling centers",
+      "Throw in rivers",
+      "Burn openly",
+      "Bury in soil"
+    ],
+    "correct_option": "Send to recycling centers",
+    "explanation": "E-waste contains toxic materials and must be recycled properly."
+  },
+  {
+    "id": 184,
+    "question": "Why should we save paper at schools?",
+    "options": [
+      "It saves trees",
+      "It increases exams",
+      "It reduces oxygen",
+      "It makes bags heavy"
+    ],
+    "correct_option": "It saves trees",
+    "explanation": "Paper is made from trees; saving it reduces deforestation."
+  },
+  {
+    "id": 185,
+    "question": "Which energy is obtained from Earth’s heat?",
+    "options": [
+      "Geothermal energy",
+      "Solar energy",
+      "Nuclear energy",
+      "Hydro energy"
+    ],
+    "correct_option": "Geothermal energy",
+    "explanation": "Geothermal energy comes from natural heat beneath the Earth’s surface."
+  },
+  {
+    "id": 186,
+    "question": "Why should rivers be kept clean?",
+    "options": [
+      "They provide drinking water",
+      "They increase air pollution",
+      "They make roads dusty",
+      "They reduce oxygen"
+    ],
+    "correct_option": "They provide drinking water",
+    "explanation": "Rivers are a main source of fresh water for people, animals, and crops."
+  },
+  {
+    "id": 187,
+    "question": "Which of these helps save fuel?",
+    "options": [
+      "Walking for short distances",
+      "Driving cars for every trip",
+      "Using bikes for fun",
+      "Flying often"
+    ],
+    "correct_option": "Walking for short distances",
+    "explanation": "Walking uses no fuel and reduces pollution."
+  },
+  {
+    "id": 188,
+    "question": "Why should we plant trees in schools?",
+    "options": [
+      "They provide shade and oxygen",
+      "They increase dust",
+      "They block study",
+      "They waste space"
+    ],
+    "correct_option": "They provide shade and oxygen",
+    "explanation": "Trees give oxygen and make the school environment healthier."
+  },
+  {
+    "id": 189,
+    "question": "Which activity reduces greenhouse gases?",
+    "options": [
+      "Using renewable energy",
+      "Burning more coal",
+      "Driving more vehicles",
+      "Cutting trees"
+    ],
+    "correct_option": "Using renewable energy",
+    "explanation": "Renewable energy sources like wind and solar emit no greenhouse gases."
+  },
+  {
+    "id": 190,
+    "question": "Why should we avoid using plastic cups?",
+    "options": [
+      "They cause pollution",
+      "They decompose fast",
+      "They increase oxygen",
+      "They clean water"
+    ],
+    "correct_option": "They cause pollution",
+    "explanation": "Plastic cups add to waste as they cannot decompose easily."
+  },
+  {
+    "id": 191,
+    "question": "Which practice saves electricity in schools?",
+    "options": [
+      "Turning off fans when not needed",
+      "Leaving lights on",
+      "Using old bulbs",
+      "Running AC with doors open"
+    ],
+    "correct_option": "Turning off fans when not needed",
+    "explanation": "Switching off fans and lights when not required saves energy."
+  },
+  {
+    "id": 192,
+    "question": "Why should we conserve rainforests?",
+    "options": [
+      "They are the lungs of Earth",
+      "They increase smoke",
+      "They reduce biodiversity",
+      "They cause pollution"
+    ],
+    "correct_option": "They are the lungs of Earth",
+    "explanation": "Rainforests produce oxygen and regulate the global climate."
+  },
+  {
+    "id": 193,
+    "question": "Which activity keeps beaches clean?",
+    "options": [
+      "Avoiding littering",
+      "Throwing bottles",
+      "Burning plastics",
+      "Dumping nets"
+    ],
+    "correct_option": "Avoiding littering",
+    "explanation": "Not littering keeps beaches safe for humans and marine life."
+  },
+  {
+    "id": 194,
+    "question": "Why should we recycle glass bottles?",
+    "options": [
+      "They can be reused many times",
+      "They decompose in soil",
+      "They create oxygen",
+      "They reduce biodiversity"
+    ],
+    "correct_option": "They can be reused many times",
+    "explanation": "Glass is infinitely recyclable without losing quality."
+  },
+  {
+    "id": 195,
+    "question": "Which is the cleanest source of electricity?",
+    "options": [
+      "Solar power",
+      "Coal power",
+      "Diesel generators",
+      "Petrol energy"
+    ],
+    "correct_option": "Solar power",
+    "explanation": "Solar power does not emit harmful gases and is renewable."
+  },
+  {
+    "id": 196,
+    "question": "Why should we save wetlands?",
+    "options": [
+      "They prevent floods and support biodiversity",
+      "They increase garbage",
+      "They pollute rivers",
+      "They reduce oxygen"
+    ],
+    "correct_option": "They prevent floods and support biodiversity",
+    "explanation": "Wetlands absorb extra water during rains and provide homes for many species."
+  },
+  {
+    "id": 197,
+    "question": "Which of these practices reduces plastic waste?",
+    "options": [
+      "Carrying cloth bags",
+      "Throwing plastics in oceans",
+      "Burning plastics",
+      "Using disposables"
+    ],
+    "correct_option": "Carrying cloth bags",
+    "explanation": "Cloth bags are reusable and reduce plastic pollution."
+  }
+]
