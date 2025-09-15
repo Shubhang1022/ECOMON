@@ -138,14 +138,14 @@ export default function Welcome() {
   const handleFeatureClick = (href?: string) => {
     if (!href) return;
     // require login for certain features
-    const protectedPaths = ["/ai-quiz", "/leaderboard", "/learn", "/real-tasks"];
+    /* const protectedPaths = ["/ai-quiz", "/leaderboard", "/learn", "/real-tasks"];
     if (!loggedIn && protectedPaths.includes(href)) {
       // bring up sign-in form instead of navigating
       setIsLogin(true);
       const feature = features.find(f => f.href === href);
       alert(`Please sign in to access ${feature?.title ?? href}`);
       return;
-    }
+    } */
     navigate(href);
   };
 
