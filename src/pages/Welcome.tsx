@@ -135,7 +135,11 @@ export default function Welcome() {
     }
   ];
 
-  const handleFeatureClick = (href?: string) => {
+  const   # login wit  # login with GitHub CLI
+  gh auth login
+  # or add remote then push
+  git remote add origin https://github.com/Shubhang1022/ECOMON.git
+  git push -u origin HEAD = (href?: string) => {
     if (!href) return;
     // require login for certain features
     /* const protectedPaths = ["/ai-quiz", "/leaderboard", "/learn", "/real-tasks"];
